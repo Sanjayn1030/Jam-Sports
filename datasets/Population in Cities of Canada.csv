@@ -1,0 +1,835 @@
+Entity DCID,Entity properties name,Variable observation value
+wikidataId/Q172,Toronto,2410060
+wikidataId/Q340,Montreal,1492520
+wikidataId/Q36312,Calgary,1070930
+wikidataId/Q1930,Ottawa,850525
+wikidataId/Q2096,Edmonton,826785
+wikidataId/Q2135,Winnipeg,625260
+wikidataId/Q50816,Mississauga,608645
+wikidataId/Q24639,Vancouver,591675
+wikidataId/Q44198,Brampton,538825
+wikidataId/Q133116,Hamilton,478115
+wikidataId/Q390583,Surrey,474265
+wikidataId/Q2145,Quebec City,468435
+wikidataId/Q2141,Halifax,374790
+wikidataId/Q141810,Laval,363165
+wikidataId/Q92561,London,353305
+wikidataId/Q44016,Markham,284620
+wikidataId/Q44013,Vaughan,269815
+wikidataId/Q141844,Gatineau,238440
+wikidataId/Q10566,Saskatoon,217450
+wikidataId/Q244025,Burnaby,216825
+wikidataId/Q236837,Richmond,216280
+wikidataId/Q200166,Kitchener,211980
+wikidataId/Q139398,Longueuil,211840
+wikidataId/Q182625,Windsor,193020
+wikidataId/Q2123,Regina,183750
+wikidataId/Q424984,Oakville,175320
+wikidataId/Q52998,Richmond Hill,172050
+wikidataId/Q34218,Burlington,157050
+wikidataId/Q139473,Sherbrooke,145720
+wikidataId/Q211867,Oshawa,144580
+wikidataId/Q1028279,Cambridge,143245
+wikidataId/Q271730,Abbotsford,126870
+wikidataId/Q643215,Coquitlam,126220
+wikidataId/Q232226,Kelowna,124990
+wikidataId/Q139208,Lévis,124535
+wikidataId/Q139229,Saguenay,123115
+wikidataId/Q34183,Barrie,123085
+wikidataId/Q504114,Guelph,120230
+wikidataId/Q44012,Trois-Rivières,119595
+wikidataId/Q126805,St. Catharines,117455
+wikidataId/Q202973,Kingston,113755
+wikidataId/Q386338,Whitby,112075
+wikidataId/Q2593110,"Woodbridge, Ontario",106810
+wikidataId/Q639408,Waterloo,103795
+wikidataId/Q386567,Ajax,102860
+wikidataId/Q16461,Nanaimo,101987
+wikidataId/Q425057,Milton,100995
+wikidataId/Q139190,Terrebonne,96135
+wikidataId/Q2082,St. John's,95980
+wikidataId/Q983026,Chilliwack,95798
+wikidataId/Q34116,Thunder Bay,93420
+wikidataId/Q851838,Delta,92030
+wikidataId/Q113464,Chatham-Kent,87435
+wikidataId/Q2132,Victoria,83415
+wikidataId/Q473209,Kamloops,83070
+wikidataId/Q386626,Pickering,82785
+wikidataId/Q23025,Red Deer,82475
+wikidataId/Q270887,Lethbridge,81345
+wikidataId/Q141977,Saint-Jean-sur-Richelieu,81230
+wikidataId/Q274120,Niagara Falls,80525
+wikidataId/Q1451232,Stoney Creek,76382
+wikidataId/Q139104,Brossard,76360
+wikidataId/Q16740,Maple Ridge,74920
+wikidataId/Q52999,Newmarket,73425
+wikidataId/Q776930,Peterborough,71695
+wikidataId/Q139427,Repentigny,70565
+wikidataId/Q876122,New Westminster,68985
+wikidataId/Q384755,Kawartha Lakes,68710
+wikidataId/Q141724,Saint-Jérôme,67760
+wikidataId/Q141940,Drummondville,66860
+wikidataId/Q590205,Prince George,63750
+wikidataId/Q424659,Caledon,63425
+wikidataId/Q463165,Sault Ste. Marie,61800
+wikidataId/Q34106,Sarnia,61475
+wikidataId/Q141881,Granby,58445
+wikidataId/Q939127,St. Albert,55960
+wikidataId/Q408537,Airdrie,55835
+wikidataId/Q2138,Fredericton,53995
+wikidataId/Q368241,Medicine Hat,52640
+wikidataId/Q266438,Aurora,51475
+wikidataId/Q1001626,North Vancouver,50805
+wikidataId/Q642900,Grande Prairie,50170
+wikidataId/Q139568,Blainville,48810
+wikidataId/Q141873,Saint-Hyacinthe,48750
+wikidataId/Q141921,Mirabel,48490
+wikidataId/Q424773,Welland,47435
+wikidataId/Q912253,North Bay,45060
+wikidataId/Q3492093,New Tecumseth,43948
+wikidataId/Q141980,Shawinigan,43330
+wikidataId/Q3492080,Innisfil,43326
+wikidataId/Q1336,Rimouski,41965
+wikidataId/Q141522,Châteauguay,41480
+wikidataId/Q141748,Mascouche,41025
+wikidataId/Q141998,Dollard-des-Ormeaux,40515
+wikidataId/Q956690,Cornwall,40340
+wikidataId/Q141731,Victoriaville,40320
+wikidataId/Q483334,Whitchurch–Stouffville,40210
+wikidataId/Q115788,Langford,38580
+wikidataId/Q985671,Vernon,38485
+wikidataId/Q1642364,Woodstock,38475
+wikidataId/Q141505,Saint-Eustache,37725
+wikidataId/Q142039,Salaberry-de-Valleyfield,36530
+wikidataId/Q813856,Bedford,36354
+wikidataId/Q141924,Boucherville,35235
+wikidataId/Q141804,Rouyn-Noranda,35015
+wikidataId/Q141711,Vaudreuil-Dorion,34720
+wikidataId/Q991310,Timmins,34490
+wikidataId/Q3492517,Bradford West Gwillimbury,33695
+wikidataId/Q2127,Charlottetown,33660
+wikidataId/Q2373358,Orillia,33411
+wikidataId/Q1801144,Lakeshore,33080
+wikidataId/Q935519,Penticton,32485
+wikidataId/Q932261,Sydney,30960
+wikidataId/Q142010,Sorel‐Tracy,30785
+wikidataId/Q5958093,West Kelowna,30200
+wikidataId/Q671431,Prince Albert,29570
+wikidataId/Q1013456,Spruce Grove,29500
+wikidataId/Q142271,Pointe-Claire,28605
+wikidataId/Q268103,Fort Erie,28500
+wikidataId/Q139588,Côte-Saint-Luc,28475
+wikidataId/Q776261,Port Moody,28020
+wikidataId/Q483424,East Gwillimbury,28005
+wikidataId/Q1019496,Moose Jaw,27700
+wikidataId/Q143227,Saint-Georges,27610
+wikidataId/Q1435042,LaSalle,27200
+wikidataId/Q141937,Val-d'Or,27130
+wikidataId/Q891636,Bolton,26795
+wikidataId/Q1207513,Leduc,26655
+wikidataId/Q141973,Alma,25690
+wikidataId/Q1105163,Cochrane,25360
+wikidataId/Q142156,Sainte-Julie,24840
+wikidataId/Q3501912,Collingwood,24811
+wikidataId/Q142069,Chambly,24715
+wikidataId/Q142004,Magog,24595
+wikidataId/Q1017477,Courtenay,24575
+wikidataId/Q923243,Langley,24545
+wikidataId/Q2566566,Leamington,24480
+wikidataId/Q2470087,Orangeville,24445
+wikidataId/Q424901,Grimsby,24205
+wikidataId/Q142064,Saint-Constant,23950
+wikidataId/Q1363726,Okotoks,23835
+wikidataId/Q264075,Dieppe,23410
+wikidataId/Q142087,Sainte-Thérèse,23250
+wikidataId/Q2058,Whitehorse,23250
+wikidataId/Q139474,Boisbriand,22765
+wikidataId/Q141995,Thetford Mines,22540
+wikidataId/Q483483,King,22460
+wikidataId/Q3047234,Wasaga Beach,21955
+wikidataId/Q2364972,Clarence-Rockland,21790
+wikidataId/Q142092,La Prairie,21640
+wikidataId/Q142333,Saint-Bruno-de-Montarville,21630
+wikidataId/Q1007407,Fort Saskatchewan,21465
+wikidataId/Q448259,Lincoln,21450
+wikidataId/Q599678,Powell River,21407
+wikidataId/Q141699,Sept-Îles,20570
+wikidataId/Q1007418,Cobourg,20519
+wikidataId/Q1138837,Cranbrook,20499
+wikidataId/Q448120,Thorold,19800
+wikidataId/Q385335,Amherstburg,19795
+wikidataId/Q3089334,Tecumseh,19750
+wikidataId/Q1950648,Mount Pearl,19645
+wikidataId/Q138841,Beloeil,19525
+wikidataId/Q139437,Saint-Lambert,19345
+wikidataId/Q1369892,Pitt Meadows,19146
+wikidataId/Q3085326,Kingsville,18545
+wikidataId/Q1017735,Owen Sound,18525
+wikidataId/Q142076,Candiac,18430
+wikidataId/Q142072,Saint-Lin–Laurentides,18400
+wikidataId/Q141754,L'Assomption,18375
+wikidataId/Q141760,Joliette,18330
+wikidataId/Q559147,Essex,17970
+wikidataId/Q142426,Saint-Lazare,17830
+wikidataId/Q139654,Baie-Comeau,17715
+wikidataId/Q2532991,Riverview,17460
+wikidataId/Q424704,Port Colborne,17400
+wikidataId/Q142024,Rivière-du-Loup,17365
+wikidataId/Q142014,Varennes,17280
+wikidataId/Q999303,Chestermere,17130
+wikidataId/Q991363,Corner Brook,17055
+wikidataId/Q448372,Niagara-on-the-Lake,16990
+wikidataId/Q142102,Saint-Augustin-de-Desmaures,16915
+wikidataId/Q3108251,Glace Bay,16915
+wikidataId/Q23021,Fort St. John,16885
+wikidataId/Q139497,Westmount,16820
+wikidataId/Q139088,Mount Royal,16695
+wikidataId/Q141963,Dorval,16650
+wikidataId/Q3010939,Salmon Arm,16620
+wikidataId/Q142117,Kirkland,16340
+wikidataId/Q2061,Yellowknife,16220
+wikidataId/Q3054408,Simcoe,16121
+wikidataId/Q2415848,Tillsonburg,15985
+wikidataId/Q3492087,Saugeen Shores,15908
+wikidataId/Q1113057,Colwood,15815
+wikidataId/Q142035,Beaconsfield,15810
+wikidataId/Q2981843,Russell,15740
+wikidataId/Q139406,Mont-Saint-Hilaire,15715
+wikidataId/Q1022127,Port Alberni,15680
+wikidataId/Q1017691,Cold Lake,15661
+wikidataId/Q775610,Camrose,15595
+wikidataId/Q253903,Beaumont,15565
+wikidataId/Q448041,Pelham,15470
+wikidataId/Q14944797,Esquimalt,15395
+wikidataId/Q964313,Quispamsis,15335
+wikidataId/Q142436,Sainte-Marthe-sur-le-Lac,15135
+wikidataId/Q141769,La Tuque,15125
+wikidataId/Q613870,Port Hope,15080
+wikidataId/Q141903,Gaspé,15063
+wikidataId/Q3305306,Paris,14956
+wikidataId/Q1053984,Central Saanich,14940
+wikidataId/Q1018257,Comox,14806
+wikidataId/Q141943,Deux-Montagnes,14650
+wikidataId/Q991257,Edmundston,14575
+wikidataId/Q1744021,Stony Plain,14570
+wikidataId/Q142218,L'Ancienne-Lorette,14465
+wikidataId/Q142190,Sainte-Catherine,14440
+wikidataId/Q1075086,Pembroke,14364
+wikidataId/Q1455440,Petawawa,14205
+wikidataId/Q142058,Mont-Laurier,14180
+wikidataId/Q1026567,Steinbach,14020
+wikidataId/Q203122,Whistler,13982
+wikidataId/Q619937,Swift Current,13980
+wikidataId/Q991515,Canmore,13935
+wikidataId/Q142170,Saint-Basile-le-Grand,13695
+wikidataId/Q141385,Prévost,13692
+wikidataId/Q863058,Summerside,13690
+wikidataId/Q141584,Saint-Colomban,13665
+wikidataId/Q4116650,South Stormont,13570
+wikidataId/Q2642428,Saint-Charles-Borromée,13460
+wikidataId/Q1639696,Yorkton,13345
+wikidataId/Q937901,Gravenhurst,13157
+wikidataId/Q142107,Cowansville,12955
+wikidataId/Q1059903,Mackenzie County,12804
+wikidataId/Q993727,Sooke,12680
+wikidataId/Q993714,Kenora,12670
+wikidataId/Q2981802,Mississippi Mills,12565
+wikidataId/Q2046751,Sylvan Lake,12560
+wikidataId/Q1438931,Parksville,12380
+wikidataId/Q141492,Sainte-Anne-des-Plaines,12360
+wikidataId/Q142029,Matane,12250
+wikidataId/Q2925383,Brighton,12108
+wikidataId/Q142250,Lachute,12105
+wikidataId/Q141551,Pincourt,11905
+wikidataId/Q1743705,High River,11875
+wikidataId/Q5130929,Clearwater County,11865
+wikidataId/Q141403,Lavaltrie,11655
+wikidataId/Q141393,Dolbeau-Mistassini,11635
+wikidataId/Q142196,Rosemère,11620
+wikidataId/Q1661430,Rural Municipality of St. Clements,11586
+wikidataId/Q143360,Saint-Sauveur,11580
+wikidataId/Q3492505,Thames Centre,11575
+wikidataId/Q1018325,Strathmore,11510
+wikidataId/Q1055838,Brooks,11510
+wikidataId/Q139109,Beauharnois,11410
+wikidataId/Q142192,Mercier,11385
+wikidataId/Q2729034,Elliot Lake,11372
+wikidataId/Q141420,Marieville,11332
+wikidataId/Q141542,Bécancour,11260
+wikidataId/Q390530,Sidney,11230
+wikidataId/Q7990045,County of Wetaskiwin No. 10,11212
+wikidataId/Q999654,North Battleford,11100
+wikidataId/Q141946,Montmagny,10999
+wikidataId/Q142082,Mont-Tremblant,10992
+wikidataId/Q1018271,Estevan,10851
+wikidataId/Q1259274,Sechelt,10847
+wikidataId/Q2000769,North Saanich,10840
+wikidataId/Q810807,Bathurst,10840
+wikidataId/Q6467890,Lac Ste. Anne County,10832
+wikidataId/Q1017624,Portage la Prairie,10795
+wikidataId/Q141652,Sainte-Marie,10795
+wikidataId/Q1743833,Lacombe,10760
+wikidataId/Q1019402,Winkler,10645
+wikidataId/Q141705,Amos,10645
+wikidataId/Q2747793,Blackfalds,10470
+wikidataId/Q8051939,Yellowhead County,10426
+wikidataId/Q3461735,Saint-Amable,10305
+wikidataId/Q950050,Wetaskiwin,10305
+wikidataId/Q1015639,Prince Rupert,10190
+wikidataId/Q141743,Farnham,10149
+wikidataId/Q142313,Pont-Rouge,10121
+wikidataId/Q240864,Rothesay,10100
+wikidataId/Q2484356,View Royal,9945
+wikidataId/Q984214,Whitecourt,9927
+wikidataId/Q141954,Roberval,9840
+wikidataId/Q141738,Sainte-Agathe-des-Monts,9825
+wikidataId/Q141590,L'Ile-Perrot,9820
+wikidataId/Q1016692,Hinton,9817
+wikidataId/Q1021037,Terrace,9760
+wikidataId/Q991295,Thompson,9670
+wikidataId/Q1982768,Temiskaming Shores,9634
+wikidataId/Q1779015,Nelson,9560
+wikidataId/Q484865,Port Perry,9553
+wikidataId/Q1864950,"Listowel, Ontario",9539
+wikidataId/Q141983,Bromont,9525
+wikidataId/Q3492472,Huron East,9512
+wikidataId/Q470594,Amherst,9404
+wikidataId/Q344432,Acton,9377
+wikidataId/Q141389,Notre-Dame-de-l'Île-Perrot,9315
+wikidataId/Q1010790,Qualicum Beach,9303
+wikidataId/Q2184124,Minto,9300
+wikidataId/Q991692,Olds,9209
+wikidataId/Q1904521,Warman,9200
+wikidataId/Q142391,Carignan,9190
+wikidataId/Q3492590,South Bruce Peninsula,9137
+wikidataId/Q2039207,Williams Lake,9110
+wikidataId/Q1661655,Rural Municipality of Taché,9105
+wikidataId/Q141378,Plessisville,9069
+wikidataId/Q1966925,Oromocto,9045
+wikidataId/Q4859980,Shelburne,8994
+wikidataId/Q142504,Saint-Rémi,8957
+wikidataId/Q5170975,Corman Park No. 344,8909
+wikidataId/Q81223838,L'Épiphanie,8883
+wikidataId/Q142053,Coaticook,8867
+wikidataId/Q1746037,Taber,8862
+wikidataId/Q1004103,Stratford,8860
+wikidataId/Q474178,Bridgewater,8790
+wikidataId/Q252504,North Dumfries,8680
+wikidataId/Q493025,Edson,8374
+wikidataId/Q2067514,Quesnel,8370
+wikidataId/Q58337,Banff,8305
+wikidataId/Q1893229,Revelstoke,8275
+wikidataId/Q139019,Bois-des-Filion,8240
+wikidataId/Q2143987,Renfrew,8190
+wikidataId/Q142475,Notre-Dame-des-Prairies,8130
+wikidataId/Q543997,Arnprior,8120
+wikidataId/Q1305726,Kimberley,8115
+wikidataId/Q286048,New Glasgow,8105
+wikidataId/Q1027634,Kapuskasing,8057
+wikidataId/Q7921615,County of Vermilion River,7994
+wikidataId/Q1576700,Hanover,7967
+wikidataId/Q1746026,Morinville,7965
+wikidataId/Q1012991,Drumheller,7909
+wikidataId/Q4116605,Laurentian Valley,7905
+wikidataId/Q7230589,Port Dover,7871
+wikidataId/Q3431913,Rigaud,7854
+wikidataId/Q1904137,Martensville,7795
+wikidataId/Q142162,Lorraine,7660
+wikidataId/Q141960,Acton Vale,7605
+wikidataId/Q1009713,Shediac,7535
+wikidataId/Q142206,Chandler,7490
+wikidataId/Q2030,Iqaluit,7429
+wikidataId/Q3040214,Dryden,7388
+wikidataId/Q141933,La Sarre,7358
+wikidataId/Q1744063,Ponoka,7331
+wikidataId/Q1022731,Drayton Valley,7291
+wikidataId/Q141415,Brownsburg-Chatham,7247
+wikidataId/Q141918,Chibougamau,7233
+wikidataId/Q48785,Asbestos,7088
+wikidataId/Q1025990,Merritt,7051
+wikidataId/Q4813173,Athabasca County,6959
+wikidataId/Q1808502,Trail,6895
+wikidataId/Q2219667,Parry Sound,6879
+wikidataId/Q141623,Otterburn Park,6855
+wikidataId/Q2651028,Coaldale,6840
+wikidataId/Q163977,Slave Lake,6836
+wikidataId/Q3267294,Plympton–Wyoming,6835
+wikidataId/Q142180,Delson,6830
+wikidataId/Q1743575,Rocky Mountain House,6765
+wikidataId/Q1743985,Peace River,6619
+wikidataId/Q835304,Wainwright,6606
+wikidataId/Q626279,Stephenville,6540
+wikidataId/Q141783,Port-Cartier,6516
+wikidataId/Q2428683,Perth,6469
+wikidataId/Q141565,Sainte-Catherine-de-la-Jacques-Cartier,6405
+wikidataId/Q892841,Bonnyville,6404
+wikidataId/Q141717,Mont-Joli,6384
+wikidataId/Q1030568,Campbellton,6270
+wikidataId/Q142516,Princeville,6218
+wikidataId/Q139422,Beauceville,6185
+wikidataId/Q3464192,Sainte-Brigitte-de-Laval,6140
+wikidataId/Q141571,Coteau-du-Lac,6135
+wikidataId/Q51557,Sainte-Anne-des-Monts,6121
+wikidataId/Q2028824,Sackville,6099
+wikidataId/Q8022297,Municipal District of Willow Creek No. 26,6081
+wikidataId/Q139714,Amqui,5999
+wikidataId/Q3463156,Saint-Philippe,5970
+wikidataId/Q5315628,Dunnville,5907
+wikidataId/Q4878005,Beaver County,5868
+wikidataId/Q1745995,St. Paul,5863
+wikidataId/Q141366,Saint-Pie,5847
+wikidataId/Q424870,Wainfleet,5785
+wikidataId/Q142020,Lac-Mégantic,5747
+wikidataId/Q992432,Kentville,5720
+wikidataId/Q1746019,Stettler,5695
+wikidataId/Q1276220,Vegreville,5689
+wikidataId/Q2450886,Neepawa,5685
+wikidataId/Q7611674,County of Stettler No. 6,5666
+wikidataId/Q139101,Hampstead,5645
+wikidataId/Q1139747,Creston,5583
+wikidataId/Q917796,Osoyoos,5556
+wikidataId/Q2559651,Woodstock,5553
+wikidataId/Q142017,Charlemagne,5460
+wikidataId/Q1018959,Cornwall,5420
+wikidataId/Q1658376,Brokenhead,5414
+wikidataId/Q1208051,Gananoque,5383
+wikidataId/Q2745103,Armstrong,5323
+wikidataId/Q1718869,Peachland,5245
+wikidataId/Q2105198,Devon,5220
+wikidataId/Q644273,Grand Falls,5220
+wikidataId/Q666831,Flin Flon,5099
+wikidataId/Q1743949,Didsbury,5070
+wikidataId/Q475953,Wolfville,5057
+wikidataId/Q142466,Témiscouata-sur-le-Lac,5054
+wikidataId/Q1265347,Duncan,5047
+wikidataId/Q393324,Stonewall,5046
+wikidataId/Q3462423,Saint-Honoré,5015
+wikidataId/Q141613,Saint-Joseph-de-Beauce,5014
+wikidataId/Q2001097,Northern Rockies Regional Municipality,4963
+wikidataId/Q1004113,Westlock,4921
+wikidataId/Q142289,Waterloo,4920
+wikidataId/Q1886298,Carstairs,4898
+wikidataId/Q142306,Richelieu,4835
+wikidataId/Q3481424,Shannon,4795
+wikidataId/Q2270394,Hearst,4794
+wikidataId/Q11483763,Gibsons,4758
+wikidataId/Q141445,Hudson,4680
+wikidataId/Q142301,Rivière-Rouge,4631
+wikidataId/Q4927553,Blood 148,4572
+wikidataId/Q1914835,Kindersley,4567
+wikidataId/Q142521,Sutton,4548
+wikidataId/Q1013015,Redcliff,4520
+wikidataId/Q2358467,St. Stephen,4510
+wikidataId/Q141500,Sainte-Anne-de-Bellevue,4480
+wikidataId/Q1143653,Cumberland,4447
+wikidataId/Q984084,Sussex,4440
+wikidataId/Q4740147,Amaranth,4327
+wikidataId/Q808905,Barrhead,4320
+wikidataId/Q1035422,Caraquet,4285
+wikidataId/Q277461,Niverville,4265
+wikidataId/Q1001461,Raymond,4199
+wikidataId/Q3267284,Deep River,4175
+wikidataId/Q2002394,Grand Bay–Westfield,4160
+wikidataId/Q138997,Montreal West,4155
+wikidataId/Q142325,Métabetchouan–Lac-à-la-Croix,4121
+wikidataId/Q139027,Beaupré,4117
+wikidataId/Q984028,Grand Forks,4112
+wikidataId/Q1018643,Red Lake,4094
+wikidataId/Q141558,Carleton-sur-Mer,4081
+wikidataId/Q142355,La Pocatière,4078
+wikidataId/Q487931,Swan River,4049
+wikidataId/Q1020179,Golden,3986
+wikidataId/Q3845986,Vermilion,3948
+wikidataId/Q430949,High Level,3922
+wikidataId/Q1658933,De Salaberry,3918
+wikidataId/Q282363,Invermere,3917
+wikidataId/Q655823,Port Hardy,3902
+wikidataId/Q1994373,Beresford,3840
+wikidataId/Q905710,"Fort Langley, British Columbia",3836
+wikidataId/Q1917576,White City,3821
+wikidataId/Q1746566,Claresholm,3804
+wikidataId/Q141777,Maniwaki,3757
+wikidataId/Q6482198,Lamont County,3754
+wikidataId/Q1743545,Cardston,3724
+wikidataId/Q5457013,Flagstaff County,3694
+wikidataId/Q142490,Neuville,3690
+wikidataId/Q139040,Montréal-Est,3685
+wikidataId/Q142295,New Richmond,3683
+wikidataId/Q1744046,Pincher Creek,3622
+wikidataId/Q895413,Bowen Island,3620
+wikidataId/Q142001,Château-Richer,3615
+wikidataId/Q7848795,Mulmur,3571
+wikidataId/Q142451,Saint-Pascal,3530
+wikidataId/Q619597,Battleford,3500
+wikidataId/Q3921021,Penhold,3484
+wikidataId/Q5472982,County of Forty Mile No. 8,3471
+wikidataId/Q3498168,Stellarton,3440
+wikidataId/Q4859518,Blind River,3422
+wikidataId/Q1727611,Pemberton,3407
+wikidataId/Q1383701,New Maryland,3400
+wikidataId/Q142969,Grande-Rivière,3384
+wikidataId/Q142500,Sainte-Marguerite-du-Lac-Masson,3367
+wikidataId/Q142566,Malartic,3355
+wikidataId/Q75912,Beausejour,3307
+wikidataId/Q2128700,Fort Macleod,3297
+wikidataId/Q1542954,Grande Cache,3276
+wikidataId/Q139503,Baie-D'Urfé,3255
+wikidataId/Q5210864,Dalhousie,3223
+wikidataId/Q7897258,Unorganized West Timiskaming District,3210
+wikidataId/Q1013062,Hay River,3169
+wikidataId/Q338686,Inuvik,3137
+wikidataId/Q984088,Lac La Biche,3120
+wikidataId/Q75861,Virden,3118
+wikidataId/Q142151,Trois-Pistoles,3115
+wikidataId/Q2450462,Carman,3114
+wikidataId/Q7053695,North Algona Wilberforce,3111
+wikidataId/Q141991,Percé,3095
+wikidataId/Q142182,Clermont,3065
+wikidataId/Q1257381,Houston,3052
+wikidataId/Q1743795,Three Hills,3042
+wikidataId/Q141663,Paspébiac,3033
+wikidataId/Q112975,Enderby,3028
+wikidataId/Q5130723,Clear Hills County,3006
+wikidataId/Q4683344,Admaston/Bromley,2995
+wikidataId/Q142402,Normandin,2991
+wikidataId/Q1021766,Rankin Inlet,2975
+wikidataId/Q3567557,Westville,2965
+wikidataId/Q1020218,Princeton,2894
+wikidataId/Q142345,Forestville,2892
+wikidataId/Q138973,Ste. Anne,2891
+wikidataId/Q3267266,Laurentian Hills,2885
+wikidataId/Q141599,Dégelis,2884
+wikidataId/Q6531527,Lesser Slave River No. 124,2861
+wikidataId/Q280702,Powassan,2825
+wikidataId/Q2306577,Crossfield,2820
+wikidataId/Q1743603,Fairview,2817
+wikidataId/Q141371,Saint-Gabriel,2803
+wikidataId/Q142379,Senneterre,2782
+wikidataId/Q754638,Athabasca,2759
+wikidataId/Q281649,Minnedosa,2741
+wikidataId/Q141627,Bonaventure,2733
+wikidataId/Q880216,Black Diamond,2730
+wikidataId/Q1006756,Shippagan,2672
+wikidataId/Q3243949,Sundre,2672
+wikidataId/Q643346,Arviat,2657
+wikidataId/Q1000316,Springhill,2654
+wikidataId/Q2923610,Turner Valley,2611
+wikidataId/Q5609343,Grimshaw,2601
+wikidataId/Q141764,Huntingdon,2556
+wikidataId/Q2650984,Gibbons,2535
+wikidataId/Q142370,Thurso,2525
+wikidataId/Q2782497,La Ronge,2521
+wikidataId/Q142360,Cap-Chat,2516
+wikidataId/Q462564,Tofino,2516
+wikidataId/Q2071178,Bouctouche,2513
+wikidataId/Q142284,Pohénégamook,2481
+wikidataId/Q608478,Magrath,2481
+wikidataId/Q7334420,Rimbey,2470
+wikidataId/Q141645,Ville-Marie,2464
+wikidataId/Q1008802,Sexsmith,2427
+wikidataId/Q7852567,Tumbler Ridge,2399
+wikidataId/Q11883244,Morrisburg,2398
+wikidataId/Q747623,Hanna,2394
+wikidataId/Q1743462,High Prairie,2380
+wikidataId/Q141536,Gracefield,2376
+wikidataId/Q142174,Témiscaming,2368
+wikidataId/Q60649450,Daveluyville,2360
+wikidataId/Q2104736,Port McNeill,2356
+wikidataId/Q1659757,Gimli,2345
+wikidataId/Q18378145,Boissevain – Morton,2309
+wikidataId/Q355257,Lillooet,2302
+wikidataId/Q987459,Chetwynd,2302
+wikidataId/Q142165,Saint-Pamphile,2274
+wikidataId/Q4859943,Markstay-Warren,2250
+wikidataId/Q686415,Fort Smith,2248
+wikidataId/Q3315627,Minto,2234
+wikidataId/Q1744143,Nanton,2167
+wikidataId/Q501627,Coalhurst,2150
+wikidataId/Q141658,Causapscal,2147
+wikidataId/Q2385189,Saint-Quentin,2141
+wikidataId/Q5759321,Highlands,2095
+wikidataId/Q3538507,Trenton,2075
+wikidataId/Q804378,Baker Lake,2069
+wikidataId/Q999339,Igloolik,2049
+wikidataId/Q957700,St. Andrews,2048
+wikidataId/Q2146186,Tofield,2045
+wikidataId/Q573968,Bow Island,2036
+wikidataId/Q557967,Anmore,2010
+wikidataId/Q141406,Léry,1995
+wikidataId/Q7124993,County of Paintearth No. 18,1990
+wikidataId/Q2450865,Morris,1975
+wikidataId/Q487130,Souris,1970
+wikidataId/Q165174,100 Mile House,1928
+wikidataId/Q595958,Tsawwassen First Nation,1925
+wikidataId/Q4859501,Neebing,1920
+wikidataId/Q1744077,Provost,1900
+wikidataId/Q1911758,Millet,1890
+wikidataId/Q142211,Fossambault-sur-le-Lac,1860
+wikidataId/Q4859875,Huron Shores,1860
+wikidataId/Q7574471,Special Area No. 2,1860
+wikidataId/Q75894,Carberry,1818
+wikidataId/Q2126898,Kensington,1812
+wikidataId/Q5476673,Fox Creek,1792
+wikidataId/Q1916970,Shaunavon,1784
+wikidataId/Q142421,Waterville,1775
+wikidataId/Q2593164,Calmar,1775
+wikidataId/Q1746129,Vulcan,1769
+wikidataId/Q1425657,Dalmeny,1766
+wikidataId/Q5505937,Frontenac Islands,1760
+wikidataId/Q6593705,Redwater,1760
+wikidataId/Q18378252,Municipality of Oakland – Wawanesa,1758
+wikidataId/Q1743848,Lamont,1744
+wikidataId/Q4859882,Point Edward,1715
+wikidataId/Q1586275,Harrison Hot Springs,1700
+wikidataId/Q1743736,Valleyview,1673
+wikidataId/Q2739451,Ashcroft,1670
+wikidataId/Q954302,Burns Lake,1659
+wikidataId/Q1693101,Shelburne,1644
+wikidataId/Q1661949,Rural Municipality of Whitemouth,1630
+wikidataId/Q2957435,Nakusp,1589
+wikidataId/Q3462230,St. George,1579
+wikidataId/Q3074056,Florenceville-Bristol,1573
+wikidataId/Q3499358,Stewiacke,1557
+wikidataId/Q660265,Hantsport,1542
+wikidataId/Q4924217,Blairmore,1522
+wikidataId/Q1661705,Thompson,1518
+wikidataId/Q1915082,Langham,1518
+wikidataId/Q4915667,Birch Hills County,1516
+wikidataId/Q1736159,Moosonee,1512
+wikidataId/Q541129,Sunderland,1490
+wikidataId/Q1993247,Nipigon,1473
+wikidataId/Q142262,Chapais,1468
+wikidataId/Q388230,Crofton,1446
+wikidataId/Q3054292,Englehart,1442
+wikidataId/Q5142969,Coleman,1441
+wikidataId/Q117998,Winnipeg Beach,1439
+wikidataId/Q1805495,Lanigan,1433
+wikidataId/Q7982171,Wembley,1432
+wikidataId/Q4464252,Picture Butte,1430
+wikidataId/Q1660980,Pipestone,1422
+wikidataId/Q6801772,McKellar,1419
+wikidataId/Q1746071,Two Hills,1416
+wikidataId/Q3431443,Richibucto,1411
+wikidataId/Q2093074,Elk Point,1399
+wikidataId/Q142456,Saint‐Joseph‐de‐Sorel,1360
+wikidataId/Q719585,Gjoa Haven,1349
+wikidataId/Q1661941,Rural Municipality of Whitehead,1340
+wikidataId/Q1422308,Radium Hot Springs,1339
+wikidataId/Q2894839,Belledune,1325
+wikidataId/Q985187,Saint-Léonard,1322
+wikidataId/Q2071232,Lamèque,1301
+wikidataId/Q740843,Alberton,1301
+wikidataId/Q1916400,Oxbow,1286
+wikidataId/Q7917457,Vauxhall,1286
+wikidataId/Q3942882,Bowden,1280
+wikidataId/Q58615,Arborg,1279
+wikidataId/Q1917448,Wadena,1269
+wikidataId/Q2356021,Mayerthorpe,1259
+wikidataId/Q1915322,Macklin,1247
+wikidataId/Q281887,Powerview-Pine Falls,1239
+wikidataId/Q7574473,Special Area No. 4,1236
+wikidataId/Q749228,"Inverness, Nova Scotia",1228
+wikidataId/Q1723761,Naujaat,1225
+wikidataId/Q773061,Bassano,1216
+wikidataId/Q1915344,Maidstone,1209
+wikidataId/Q928787,Swan Hills,1201
+wikidataId/Q3439667,Rogersville,1193
+wikidataId/Q201351,Clyde River,1181
+wikidataId/Q1827312,Lions Bay,1180
+wikidataId/Q3248963,Oxford,1170
+wikidataId/Q1904589,Stirling,1164
+wikidataId/Q2362623,Clarenceville,1154
+wikidataId/Q3323039,Bon Accord,1145
+wikidataId/Q7574472,Special Area No. 3,1142
+wikidataId/Q1025947,Watson Lake,1133
+wikidataId/Q615044,Rural Municipality of St. François Xavier,1130
+wikidataId/Q1744205,Smoky Lake,1127
+wikidataId/Q955573,Manning,1126
+wikidataId/Q393327,Snow Lake,1088
+wikidataId/Q809125,Barry's Bay,1084
+wikidataId/Q5102087,Chisholm,1065
+wikidataId/Q1885050,Mahone Bay,1064
+wikidataId/Q281311,Lac du Bonnet,1064
+wikidataId/Q2493627,Bruderheim,1045
+wikidataId/Q818277,Bentley,1042
+wikidataId/Q312033,Melita,1041
+wikidataId/Q652770,Coral Harbour,1035
+wikidataId/Q7689822,Taylor,1020
+wikidataId/Q2401355,Eckville,1014
+wikidataId/Q1744221,Falher,1001
+wikidataId/Q517797,Trochu,998
+wikidataId/Q142267,Desbiens,995
+wikidataId/Q994375,Brussels,993
+wikidataId/Q3558263,Viking,986
+wikidataId/Q808533,Barnwell,978
+wikidataId/Q4859889,Kearney,974
+wikidataId/Q138967,Rivers,971
+wikidataId/Q1914825,Kerrobert,970
+wikidataId/Q913891,Bridgetown,970
+wikidataId/Q11765237,Machar,969
+wikidataId/Q2918116,Onoway,966
+wikidataId/Q835359,Nackawic,962
+wikidataId/Q2003126,Irricana,960
+wikidataId/Q2210557,Legal,960
+wikidataId/Q1917595,Whitewood,944
+wikidataId/Q719605,Taloyoak,934
+wikidataId/Q1019096,Hartland,933
+wikidataId/Q2637636,Delburne,919
+wikidataId/Q1004121,Killam,918
+wikidataId/Q2290339,Oyen,917
+wikidataId/Q6802426,McMurrich/Monteith,907
+wikidataId/Q1571291,Hall Beach,891
+wikidataId/Q744553,Churchill,870
+wikidataId/Q984206,Coronation,868
+wikidataId/Q1382237,Churchbridge,866
+wikidataId/Q1744192,Spirit River,849
+wikidataId/Q809964,Bashaw,848
+wikidataId/Q14874625,Hudson's Hope,841
+wikidataId/Q1917001,Southey,832
+wikidataId/Q1908610,Milk River,824
+wikidataId/Q312066,Manitou,812
+wikidataId/Q2982694,Gore Bay,808
+wikidataId/Q3033253,Doaktown,808
+wikidataId/Q402940,Grandview,808
+wikidataId/Q985296,Castor,803
+wikidataId/Q2935923,Canal Flats,802
+wikidataId/Q281266,Rapid City,796
+wikidataId/Q1004125,Daysland,789
+wikidataId/Q2910716,Borden-Carleton,788
+wikidataId/Q6878995,Mississaugas of the Credit First Nation,775
+wikidataId/Q7796736,Thorsby,765
+wikidataId/Q1743694,Sedgewick,761
+wikidataId/Q374857,Pugwash,746
+wikidataId/Q2957506,Port Alice,739
+wikidataId/Q22500975,Churchill Falls,732
+wikidataId/Q2975642,Clark's Harbour,725
+wikidataId/Q16899379,Robert's Arm,722
+wikidataId/Q1688270,Paquetville,718
+wikidataId/Q142222,Duparquet,716
+wikidataId/Q1430348,Stikine Region,710
+wikidataId/Q1857914,McLennan,695
+wikidataId/Q2376218,Mundare,689
+wikidataId/Q1001810,Haines Junction,688
+wikidataId/Q1427108,Dundurn,675
+wikidataId/Q3343828,Norman Wells,673
+wikidataId/Q3344161,North Rustico,648
+wikidataId/Q2664348,Consort,644
+wikidataId/Q1743712,Foremost,630
+wikidataId/Q86586,Birtle,625
+wikidataId/Q815312,Belcarra,620
+wikidataId/Q1521430,Eastend,607
+wikidataId/Q341968,Acme,606
+wikidataId/Q2202181,Pierceland,605
+wikidataId/Q142255,Lac-Delage,595
+wikidataId/Q1370641,Qikiqtarjuaq,593
+wikidataId/Q1043492,Carmacks,588
+wikidataId/Q1427938,Duck Lake,579
+wikidataId/Q402571,Lynn Lake,579
+wikidataId/Q1916471,Ponteix,577
+wikidataId/Q385697,Clinton,568
+wikidataId/Q981,Warburg,565
+wikidataId/Q1930444,Granum,557
+wikidataId/Q2798556,Hardisty,548
+wikidataId/Q3512252,Stavely,544
+wikidataId/Q142233,Lac-Sergent,541
+wikidataId/Q1909440,Bienfait,525
+wikidataId/Q1910004,Blaine Lake,509
+wikidataId/Q201313,Fort Good Hope,507
+wikidataId/Q75838,Hartney,499
+wikidataId/Q2485745,Rainbow Lake,495
+wikidataId/Q4671576,Acadia No. 34,494
+wikidataId/Q1743441,Ryley,484
+wikidataId/Q3257744,Lockeport,476
+wikidataId/Q2120077,Whale Cove,470
+wikidataId/Q1438605,Fort Liard,468
+wikidataId/Q1916651,Radisson,466
+wikidataId/Q142365,Scotstown,459
+wikidataId/Q958471,Hay Lakes,456
+wikidataId/Q1649005,Alert Bay,449
+wikidataId/Q2003716,Grand Coulee,445
+wikidataId/Q1001646,Faro,440
+wikidataId/Q3610514,Bragg Creek,432
+wikidataId/Q284160,Kimmirut,426
+wikidataId/Q13613743,Mount Pleasant No. 2,419
+wikidataId/Q1911249,Hafford,414
+wikidataId/Q718822,Ulukhaktok,408
+wikidataId/Q1070783,Chesterfield Inlet,397
+wikidataId/Q2599367,Killarney,397
+wikidataId/Q731517,Tulita,396
+wikidataId/Q1916323,Ogema,383
+wikidataId/Q7368296,Rosemary,370
+wikidataId/Q1764983,Andrew,366
+wikidataId/Q4859952,Latchford,355
+wikidataId/Q7995503,White Valley No. 49,352
+wikidataId/Q422539,Leaf Rapids,351
+wikidataId/Q2821567,Abercorn,341
+wikidataId/Q1909386,Bengough,332
+wikidataId/Q1409290,"Harvey Station, New Brunswick",325
+wikidataId/Q2961241,Chartierville,319
+wikidataId/Q1743233,Tagish,311
+wikidataId/Q6908572,Moose Creek No. 33,306
+wikidataId/Q21070855,"Manitou Rapids 11, Ontario",300
+wikidataId/Q1917640,Willow Bunch,299
+wikidataId/Q465235,Paulatuk,298
+wikidataId/Q139094,Belleterre,285
+wikidataId/Q141426,Lac-Saint-Joseph,285
+wikidataId/Q2645708,Alma,282
+wikidataId/Q1999766,Coleville,280
+wikidataId/Q2265009,Carmangay,269
+wikidataId/Q7051187,Norglenwold,265
+wikidataId/Q141528,Estérel,262
+wikidataId/Q2104768,Port Renfrew,262
+wikidataId/Q1592082,Hazelton,257
+wikidataId/Q6501793,Laurier No. 38,253
+wikidataId/Q1959561,Chipman,246
+wikidataId/Q141693,Schefferville,244
+wikidataId/Q2892162,Bay L'Argent,234
+wikidataId/Q921964,Dease Lake,229
+wikidataId/Q12352509,Gull Lake,226
+wikidataId/Q6686189,Lougheed,225
+wikidataId/Q5579317,Golden Days,215
+wikidataId/Q5933280,Hughenden,213
+wikidataId/Q4915714,Birchcliff,211
+wikidataId/Q2957125,Lytton,210
+wikidataId/Q7442315,Seba Beach,210
+wikidataId/Q5270746,Diamond City,204
+wikidataId/Q1911125,Govan,200
+wikidataId/Q5101689,Chippewas of Georgina Island First Nation,190
+wikidataId/Q493879,Mayo,188
+wikidataId/Q606622,Resolute,183
+wikidataId/Q14874850,Lomond,178
+wikidataId/Q8058634,Youngstown,171
+wikidataId/Q6936891,Munson,170
+wikidataId/Q14874817,Hussar,164
+wikidataId/Q826427,Yale,162
+wikidataId/Q7161415,Pelican Narrows,158
+wikidataId/Q5253857,Delia,152
+wikidataId/Q276115,Grise Fiord,144
+wikidataId/Q5595547,Grandview,143
+wikidataId/Q6860270,Milo,136
+wikidataId/Q169348,Zeballos,126
+wikidataId/Q7369396,Ross Haven,126
+wikidataId/Q5517278,Gainford,118
+wikidataId/Q141399,L'Île-Cadieux,115
+wikidataId/Q719379,Sachs Harbour,104
+wikidataId/Q6825677,Mewatha Beach,103
+wikidataId/Q7354094,Rochon Sands,97
+wikidataId/Q2552362,Halkirk,92
+wikidataId/Q2003823,Hazlet,90
+wikidataId/Q142225,Barkmere,81
+wikidataId/Q5905956,Horseshoe Bay,81
+wikidataId/Q2204241,Sceptre,78
+wikidataId/Q17022091,Stawamus 24,75
+wikidataId/Q1916940,Scott,74
+wikidataId/Q1910658,Fleming,70
+wikidataId/Q4915648,Birch Cove,67
+wikidataId/Q1999097,Belle Plaine,65
+wikidataId/Q1999978,Disley,58
+wikidataId/Q2085237,Lancer,58
+wikidataId/Q1999798,Consul,50
+wikidataId/Q4789271,Argentia Beach,39
+wikidataId/Q141957,L'Île-Dorval,30
+wikidataId/Q2204565,Smiley,25
+wikidataId/Q21070828,"Lac des Mille Lacs 22A1, Ontario",0
+wikidataId/Q720333,Umingmaktok,0
+wikidataId/Q810806,Bathurst Inlet,0
